@@ -3,7 +3,7 @@
 I am a **Sound Engineering student** at **Universidad Nacional de Tres de Febrero (UNTREF)** with a strong focus on electroacoustics and live sound reinforcement. My work combines technical rigor with a pragmatic approach to ensure high-quality auditory experiences in high-pressure environments.
 
 #### 🔭 Current Focus & Research
-* **Thesis:** Currently developing an **electroacoustic device for low-frequency sound absorption**.
+* **Thesis:** Investigating the **perception of temporal response in subwoofer arrays**. My research analyzes the psychoacoustic trade-off between **directivity control** (the "Sound Democracy" paradigm) and the preservation of **transient fidelity** due to impulse response stretching.
 * **Academic:** 90% of the Sound Engineering degree completed with an average of 8.4/10.
 * **Interests:** Acoustic prediction for large-scale events, design and maintenance of electroacoustic equipment, and architectural acoustics for professional studios.
 
@@ -24,17 +24,8 @@ I have a strong vocation for teaching and collaborating in multidisciplinary tea
 #### 🛠️ Tech Stack
 * **Acoustics/Simulation:** Smaart, REW, EASE, Ease Focus, AutoCAD, SketchUp.
 * **Programming & Tools:** Python 3 (Signal processing & data visualization), LaTeX, and Excel.
-* **Audio:** Digital consoles and various DAWs.
+* **Audio:** Digital consoles (DiGiCo, RME) and various DAWs (Reaper, etc.).
 
 #### 📫 Connect with me
 * **LinkedIn:** [linkedin.com/in/pedro-venezia](https://linkedin.com/in/pedro-venezia)
 * **Email:** [pedro_venezia@icloud.com](mailto:pedro_venezia@icloud.com)
-
-#### 🛠️ Tech Stack
-* [cite_start]**Acoustics/Simulation:** Smaart, REW, EASE, Ease Focus, AutoCAD, SketchUp[cite: 13, 15, 16].
-* [cite_start]**Programming & Tools:** Python 3 (Signal processing & data visualization), LaTeX, and Excel[cite: 17, 21, 26].
-* [cite_start]**Audio:** Digital consoles and various DAWs[cite: 18, 49].
-
-#### 📫 Connect with me
-* [cite_start]**LinkedIn:** [linkedin.com/in/pedro-venezia](https://linkedin.com/in/pedro-venezia) [cite: 5]
-* [cite_start]**Email:** [pedro_venezia@icloud.com](mailto:pedro_venezia@icloud.com) [cite: 4]
