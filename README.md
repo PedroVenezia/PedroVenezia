@@ -11,7 +11,8 @@ I am a **Sound Engineering student** at **Universidad Nacional de Tres de Febrer
 I specialize in the design, adjustment, and operation of sound reinforcement systems:
 * **System Engineering:** PA adjustment (Line Arrays), front fills, and delays; time alignment of distributed systems; and directivity control.
 * **Live Operations:** RF coordination, digital protocols (MADI/Dante), and multi-track recording.
-* **Current Roles:** * **System Tech** for the award-winning musical *"Cuando Frank Conoció a Carlitos"* at Teatros Astral & Tabarís.
+* **Current Roles:**
+    * **System Tech** for the award-winning musical *"Cuando Frank Conoció a Carlitos"* at Teatros Astral & Tabarís.
     * **Sound Technician** at **Mosqui Sonido Profesional**, handling major venues like the Vélez Sarsfield Stadium and Teatro Colón.
 
 #### 🎓 Teaching & Leadership
