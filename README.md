@@ -36,3 +36,8 @@ I have a strong vocation for teaching and collaborating in multidisciplinary tea
 You can download my full resume here:
 
 [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge)](./resume.pdf)
+
+## 🎥 Project Demo
+
+[![Watch the video]([https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/qzcMLB-kEiY?si=44akWqL36klu9o8M))
+
