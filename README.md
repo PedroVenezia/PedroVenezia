@@ -3,7 +3,7 @@
 I am a **Sound Engineering student** at **Universidad Nacional de Tres de Febrero (UNTREF)** with a strong focus on electroacoustics and live sound reinforcement. My work combines technical rigor with a pragmatic approach to ensure high-quality auditory experiences in high-pressure environments.
 
 #### 🔭 Current Focus & Research
-* **Thesis:** Investigating the **perception of temporal response in subwoofer arrays**. My research analyzes the psychoacoustic trade-off between **directivity control** (the "Sound Democracy" paradigm) and the preservation of **transient fidelity** due to impulse response stretching.
+* **Thesis:** Investigating the **perception of temporal response in subwoofer arrays**. My research analyzes the psychoacoustic trade-off between **directivity control** for consistent coverage and the preservation of **transient fidelity** due to impulse response stretching.
 * **Academic:** 90% of the Sound Engineering degree completed with an average of 8.4/10.
 * **Interests:** Acoustic prediction for large-scale events, design and maintenance of electroacoustic equipment, and architectural acoustics for professional studios.
 
