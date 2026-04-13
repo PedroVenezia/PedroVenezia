@@ -39,5 +39,12 @@ You can download my full resume here:
 
 ## 🎥 Know Me!
 
+## 📚 Academic Presentations
+
+Coursework and presentations from my engineering degree:
+
+### Acoustics Laboratory
+- 📄 [Influence of the musical excerpt envelope on the relative modal threshold](./LA2024-2_Venezia_Influence of the musical excerpt envelope on the relative modal threshold.pdf)
+
 ## 🎬 Inspiring & Useful Resources
 [![Video Title](https://img.youtube.com/vi/qzcMLB-kEiY/0.jpg)](https://www.youtube.com/watch?v=qzcMLB-kEiY)
