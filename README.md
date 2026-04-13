@@ -39,5 +39,5 @@ You can download my full resume here:
 
 ## 🎥 Project Demo
 
-[![Watch the video]([https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/qzcMLB-kEiY?si=44akWqL36klu9o8M))
+[![Watch the video](<iframe width="560" height="315" src="https://www.youtube.com/embed/qzcMLB-kEiY?si=44akWqL36klu9o8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)
 
