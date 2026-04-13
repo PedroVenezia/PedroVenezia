@@ -30,3 +30,9 @@ I have a strong vocation for teaching and collaborating in multidisciplinary tea
 #### 📫 Connect with me
 * **LinkedIn:** [linkedin.com/in/pedro-venezia](https://linkedin.com/in/pedro-venezia)
 * **Email:** [pedro_venezia@icloud.com](mailto:pedro_venezia@icloud.com)
+
+## 📋 Resume & CV
+
+You can download my full resume here:
+
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge)](./resume.pdf)
