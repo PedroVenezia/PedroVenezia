@@ -43,7 +43,7 @@ You can download my full resume here:
 
 | | | |
 |---|---|---|
-| ![Work 1](./images/work1.jpg) | ![Work 2](./images/work2.jpg) | ![Work 3](./images/work3.jpg) |
+| ![Teatro Colon](./Colon.jpeg) | ![Work 2](./images/work2.jpg) | ![Work 3](./images/work3.jpg) |
 | ![Work 4](./images/work4.jpg) | ![Work 5](./images/work5.jpg) | ![Work 6](./images/work6.jpg) |
 
 ## 📚 Academic Presentations
