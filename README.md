@@ -57,27 +57,35 @@ You can download my full resume here:
 </p>
 
 <p align="center">
-  <img src="./arena.jpg" width="250" style="object-fit: cover;"/>
-  <img src="./arg.jpg" width="250" style="object-fit: cover;"/>
+   <img src="./tabaris.jpg" width="250" style="object-fit: cover;"/>
+    <img src="./taba.jpg" width="250" style="object-fit: cover;"/>
   <img src="./contra.jpg" width="250" style="object-fit: cover;"/>
 </p>
 
 <p align="center">
-  <img src="./dillom.jpg" width="250" style="object-fit: cover;"/>
+   <img src="./velez.jpg" width="250" style="object-fit: cover;"/>
   <img src="./dosorio.jpg" width="250" style="object-fit: cover;"/>
-  <img src="./malbran.JPG" width="250" style="object-fit: cover;"/>
+  <img src="./var.JPG" width="250" style="object-fit: cover;"/>
 </p>
 
 <p align="center">
+   <img src="./malbran.JPG" width="250" style="object-fit: cover;"/>
   <img src="./ministerio.jpg" width="250" style="object-fit: cover;"/>
-  <img src="./subs.jpg" width="250" style="object-fit: cover;"/>
-  <img src="./taba.jpg" width="250" style="object-fit: cover;"/>
+   <img src="./arg.jpg" width="250" style="object-fit: cover;"/>
+ 
 </p>
 
 <p align="center">
-  <img src="./tabaris.jpg" width="250" style="object-fit: cover;"/>
+<img src="./arena.jpg" width="250" style="object-fit: cover;"/>
+   <img src="./subs.jpg" width="250" style="object-fit: cover;"/>
+  <img src="./dillom.jpg" width="250" style="object-fit: cover;"/>
+  
+</p>
+<p align="center">
+   <img src="./subs.jpg" width="250" style="object-fit: cover;"/>
+  <img src="./dillom.jpg" width="250" style="object-fit: cover;"/>
   <img src="./tvs.jpg" width="250" style="object-fit: cover;"/>
-  <img src="./velez.jpg" width="250" style="object-fit: cover;"/>
+  
 </p>
 
 ## 📚 Academic Presentations
