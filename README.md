@@ -38,9 +38,12 @@ You can download my full resume here:
 [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge)](./resume.pdf)
 
 ## 🎥 Know Me!
+
 <p align="center">
   <a href="https://youtu.be/JXh4eiGeGcg">
-    <img src="https://img.youtube.com/vi/JXh4eiGeGcg/0.jpg" width="500"/>
+    <img src="https://img.youtube.com/vi/JXh4eiGeGcg/0.jpg" 
+         width="300" 
+         style="border-radius: 12px; object-fit: cover;"/>
   </a>
 </p>
 
