@@ -82,8 +82,8 @@ You can download my full resume here:
 </p>
 
 <p align="center">
-  <img src="./cardioide.jpg" height="500" style="object-fit: cover;"/>
-  <img src="./cardio.jpg" height="500" style="object-fit: cover;"/>
+  <img src="./cardioide.jpg" height="400" style="object-fit: cover;"/>
+  <img src="./cardio.jpg" height="400" style="object-fit: cover;"/>
 </p>
 
 <p align="center">
