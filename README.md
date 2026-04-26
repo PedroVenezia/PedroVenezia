@@ -91,17 +91,22 @@ You can download my full resume here:
   <img src="./colon.jpg" height="600" style="object-fit: cover;"/>
 </p>
 
-## 📚 Academic Presentations
+## 📚 Academic Work & Technical Documentation
 
-Coursework and presentations from my engineering degree:
+Coursework, research, and technical materials developed during my Sound Engineering degree.
 
-### Acoustics Laboratory
-- 📄 [Influence of the musical excerpt envelope on the relative modal threshold](./LA2024-2_Venezia_Influence-of-the-musical-excerpt-envelope-on-the-relative-modal-threshold.pdf)
-- You can take the Listening Test in the following [Link](https://abxtests.com/?st=gicvvigl&dl=0&test=https%3A%2F%2Fwww.dropbox.com%2Fscl%2Ffi%2Fm4oavrkrvkek9afq7v81x%2FABX_modal_V1.yaml%3Frlkey%3Dztglb1jfb966pz9q73rq4tzwk) 
- 
+---
+
+### 🔬 Acoustics Laboratory
+- 📄 [Influence of the Musical Excerpt Envelope on the Relative Modal Threshold](./LA2024-2_Venezia_Influence-of-the-musical-excerpt-envelope-on-the-relative-modal-threshold.pdf)  
+  *Study on perceptual thresholds and temporal envelope influence in modal detection.*
+
+- 🎧 Listening Test:  
+  [Take the ABX Test](https://abxtests.com/?st=gicvvigl&dl=0&test=https%3A%2F%2Fwww.dropbox.com%2Fscl%2Ffi%2Fm4oavrkrvkek9afq7v81x%2FABX_modal_V1.yaml%3Frlkey%3Dztglb1jfb966pz9q73rq4tzwk)
+
+---
 
 ### 🎓 Acoustics & Psychoacoustics I
-
 - 📄 [Summation of Point Sources](./Suma_de_Fuentes_Puntuales.pdf)  
   *Analysis of constructive and destructive interference between multiple sources.*
 
@@ -110,6 +115,32 @@ Coursework and presentations from my engineering degree:
 
 - 📄 [Source Summation & Directivity](./Suma_de_Fuentes_y_Directividad.pdf)  
   *Study of spatial response and directivity patterns resulting from source interaction.*
+
+- 📄 [Infinite Line Source Paradox](./La%20paradoja%20de%20la%20linea%20infinita%20de%20fuentes%20sonoras.pdf)  
+  *Theoretical analysis of line source behavior and its practical limitations.*
+
+- 📄 [Hopkins & Stryker Equation (HSE)](./Hopkins%20%26%20Stryker%20Equation%20(HSE).pdf)  
+  *Historical review of the origin and development of the direct and reverberant field model for SPL estimation.*
+
+---
+
+### 🔊 Electroacoustics
+- 📄 [Analogies Between Mechanical, Electrical and Acoustical Systems](./Introducción%20a%20las%20Analogías%20entre%20los%20Sistemas%20Mecánicos,%20Eléctricos%20y%20Acústicos.pdf)  
+  *Equivalent circuit modeling and cross-domain system representation.*
+
+---
+
+### ⚙️ Classical Mechanics
+- 📄 [Oscillators – Solved Exercises](./Osciladores_Respuestas.pdf)  
+  *Analysis and resolution of harmonic oscillator systems.*
+
+---
+
+### 🧠 Notes
+These documents include theoretical developments, numerical analysis, and solved exercises, reflecting a strong emphasis on system-level understanding and physical modeling.
+
+---
+  
 ## 🎬 Inspiring & Useful 
 
 ### 🎓 Academic & Technical Resources
