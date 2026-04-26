@@ -87,8 +87,8 @@ You can download my full resume here:
 </p>
 
 <p align="center">
-  <img src="./tvs.jpg" height="500" style="object-fit: cover;"/>
-  <img src="./colon.jpg" height="500" style="object-fit: cover;"/>
+  <img src="./tvs.jpg" height="600" style="object-fit: cover;"/>
+  <img src="./colon.jpg" height="600" style="object-fit: cover;"/>
 </p>
 ## 📚 Academic Presentations
 
