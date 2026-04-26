@@ -64,7 +64,7 @@ You can download my full resume here:
 
 <p align="center">
    <img src="./velez.jpg" width="200" style="object-fit: cover;"/>
-  <img src="./var.JPG" width="430" style="object-fit: cover;"/>
+  <img src="./var.JPG" width="450" style="object-fit: cover;"/>
    <img src="./velz.JPG" width="270" style="object-fit: cover;"/>
   
 </p>
@@ -72,7 +72,7 @@ You can download my full resume here:
 <p align="center">
    
   <img src="./ministerio.jpg" width="250" style="object-fit: cover;"/>
-   <img src="./malbran.JPG" width="300" style="object-fit: cover;"/>
+   <img src="./malbran.JPG" width="350" style="object-fit: cover;"/>
    <img src="./arg.jpg" width="250" style="object-fit: cover;"/>
  
 </p>
