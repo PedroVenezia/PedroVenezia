@@ -51,15 +51,15 @@ You can download my full resume here:
 ## 📸 My Work
 
 <p align="center">
-  <img src="./Earthworks.jpg" height="600" style="object-fit: cover;"/>
-  <img src="./Colon.jpeg" height="600" style="object-fit: cover;"/>
-  <img src="./Nachito.jpg" height="600" style="object-fit: cover;"/>
+  <img src="./Earthworks.jpg" height="620" style="object-fit: cover;"/>
+  <img src="./Colon.jpeg" height="620" style="object-fit: cover;"/>
+  <img src="./Nachito.jpg" height="620" style="object-fit: cover;"/>
 </p>
 
 <p align="center">
-  <img src="./dosorio.jpg" height="500" style="object-fit: cover;"/>
-  <img src="./taba.jpg" height="500" style="object-fit: cover;"/>
-  <img src="./contra.jpg" height="500" style="object-fit: cover;"/>
+  <img src="./dosorio.jpg" height="550" style="object-fit: cover;"/>
+  <img src="./taba.jpg" height="550" style="object-fit: cover;"/>
+  <img src="./contra.jpg" height="550" style="object-fit: cover;"/>
 </p>
 
 <p align="center">
@@ -69,9 +69,9 @@ You can download my full resume here:
 </p>
 
 <p align="center">
-  <img src="./ministerio.jpg" height="350" style="object-fit: cover;"/>
-  <img src="./malbran.JPG" height="350" style="object-fit: cover;"/>
-  <img src="./arg.jpg" height="350" style="object-fit: cover;"/>
+  <img src="./ministerio.jpg" height="500" style="object-fit: cover;"/>
+  <img src="./malbran.JPG" height="500" style="object-fit: cover;"/>
+  <img src="./arg.jpg" height="500" style="object-fit: cover;"/>
 </p>
 
 <p align="center">
