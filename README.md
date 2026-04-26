@@ -64,7 +64,7 @@ You can download my full resume here:
 
 <p align="center">
    <img src="./velez.jpg" width="200" style="object-fit: cover;"/>
-  <img src="./var.JPG" width="450" style="object-fit: cover;"/>
+  <img src="./var.JPG" width="470" style="object-fit: cover;"/>
    <img src="./velz.JPG" width="270" style="object-fit: cover;"/>
   
 </p>
