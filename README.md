@@ -75,19 +75,20 @@ You can download my full resume here:
 </p>
 
 <p align="center">
-  <img src="./arena.jpg" height="500" style="object-fit: cover;"/>
-  <img src="./subs.jpg" height="500" style="object-fit: cover;"/>
-  <img src="./dillom.jpg" height="500" style="object-fit: cover;"/>
+  <img src="./arena.jpg" height="450" style="object-fit: cover;"/>
+  <img src="./dillom.jpg" height="450" style="object-fit: cover;"/>
+   <img src="./subs.jpg" height="450" style="object-fit: cover;"/>
+  
 </p>
 
 <p align="center">
-  <img src="./cardioide.jpg" height="700" style="object-fit: cover;"/>
-  <img src="./cardio.jpg" height="700" style="object-fit: cover;"/>
+  <img src="./cardioide.jpg" height="500" style="object-fit: cover;"/>
+  <img src="./cardio.jpg" height="500" style="object-fit: cover;"/>
 </p>
 
 <p align="center">
-  <img src="./tvs.jpg" height="700" style="object-fit: cover;"/>
-  <img src="./colon.jpg" height="700" style="object-fit: cover;"/>
+  <img src="./tvs.jpg" height="500" style="object-fit: cover;"/>
+  <img src="./colon.jpg" height="500" style="object-fit: cover;"/>
 </p>
 ## 📚 Academic Presentations
 
