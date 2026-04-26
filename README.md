@@ -90,6 +90,7 @@ You can download my full resume here:
   <img src="./tvs.jpg" height="600" style="object-fit: cover;"/>
   <img src="./colon.jpg" height="600" style="object-fit: cover;"/>
 </p>
+
 ## 📚 Academic Presentations
 
 Coursework and presentations from my engineering degree:
@@ -97,6 +98,9 @@ Coursework and presentations from my engineering degree:
 ### Acoustics Laboratory
 - 📄 [Influence of the musical excerpt envelope on the relative modal threshold](./LA2024-2_Venezia_Influence-of-the-musical-excerpt-envelope-on-the-relative-modal-threshold.pdf)
 - You can take the Listening Test in the following [Link](https://abxtests.com/?st=gicvvigl&dl=0&test=https%3A%2F%2Fwww.dropbox.com%2Fscl%2Ffi%2Fm4oavrkrvkek9afq7v81x%2FABX_modal_V1.yaml%3Frlkey%3Dztglb1jfb966pz9q73rq4tzwk) 
+
+### Acoustics & Psicoacustics I 
+-
 
 ## 🎬 Inspiring & Useful 
 
@@ -109,6 +113,15 @@ Coursework and presentations from my engineering degree:
 - [Dan Russell – Acoustics Demos](https://www.acs.psu.edu/drussell/demos.html)
 - [Douglas Self – Audio Design](http://www.douglas-self.com/)
 
+---
+
+### 🎓 Online Courses & Certifications
+- [Computers, Waves, Simulations (Coursera)](https://www.coursera.org/learn/computers-waves-simulations)  
+  *Numerical methods for wave phenomena, simulation, and physical modeling.*
+
+- [Dante Certification Program (Audinate)](https://www.getdante.com/resources/training/dante-certification-program/)  
+  *Industry-standard certification for Audio over IP (AoIP), covering networking, system design, and real-world AV deployment.*
+  
 ---
 
 ### 🧠 Interactive Simulations & Learning
