@@ -51,8 +51,8 @@ You can download my full resume here:
 ## 📸 My Work
 
 <p align="center">
-  <img src="./Earthworks.jpg" width="300" style="object-fit: cover;"/>
-  <img src="./Colon.jpeg" width="250" style="object-fit: cover;"/>
+  <img src="./Earthworks.jpg" width="250" style="object-fit: cover;"/>
+  <img src="./Colon.jpeg" width="300" style="object-fit: cover;"/>
   <img src="./Nachito.jpg" width="250" style="object-fit: cover;"/>
 </p>
 
