@@ -106,30 +106,30 @@ Coursework and presentations from my engineering degree:
 ### 🎓 Academic & Technical Resources
 - [Acústica UNTREF](https://acustica1untref.blogspot.com/)
 - [AyP UNTREF](https://sites.google.com/untref.edu.ar/ayp1untref/home?authuser=0)
-- [:contentReference[oaicite:0]{index=0}](https://sound-au.com/)
-- [:contentReference[oaicite:1]{index=1}](https://www.linkwitzlab.com/index.htm)
-- [:contentReference[oaicite:2]{index=2}](https://leachlegacy.ece.gatech.edu/)
-- [:contentReference[oaicite:3]{index=3}](https://www.acs.psu.edu/drussell/demos.html)
-- [:contentReference[oaicite:4]{index=4}](http://www.douglas-self.com/)
+- [ESP sound projects]{index=0}](https://sound-au.com/)
+- [Sigfried Linkwitz]{index=1}](https://www.linkwitzlab.com/index.htm)
+- [Marshall Leach]{index=2}](https://leachlegacy.ece.gatech.edu/)
+- [Dan Russel]{index=3}](https://www.acs.psu.edu/drussell/demos.html)
+- [Douglas Self]{index=4}](http://www.douglas-self.com/)
 
 ---
 
 ### 🧠 Interactive Simulations & Learning
-- [:contentReference[oaicite:5]{index=5}](http://falstad.com/)
-- [:contentReference[oaicite:6]{index=6}](https://www.walter-fendt.de/)
+- [Falstad Multiphysics Simulators]{index=5}](http://falstad.com/)
+- [Walter Fendt](https://www.walter-fendt.de/)
 - [Wave Simulation (OSP)](https://www.compadre.org/osp/EJSS/4466/252.htm?F=1)
 - [Resonance Simulation](https://www.walter-fendt.de/html5/phes/resonance_es.htm)
 - [Wave Interference](https://www.compadre.org/osp/EJSS/4416/211.htm)
-- [:contentReference[oaicite:7]{index=7}](https://ciechanow.ski/sound/)
+- [Usefull Simulators]{index=7}](https://ciechanow.ski/sound/)
 
 ---
 
 ### 📺 YouTube Channels
-- [:contentReference[oaicite:8]{index=8}](https://youtube.com/@3blue1brown)
-- [:contentReference[oaicite:9]{index=9}](https://www.youtube.com/@JorgePetrosino)
-- [:contentReference[oaicite:10]{index=10}](https://youtube.com/@danrussellpsu)
-- [:contentReference[oaicite:11]{index=11}](https://youtube.com/@josemartifauslinearray)
-- [:contentReference[oaicite:12]{index=12}](https://youtube.com/@audiouniversity)
+- [3blue1brown]{index=8}](https://youtube.com/@3blue1brown)
+- [Jorge Petrosino]{index=9}](https://www.youtube.com/@JorgePetrosino)
+- [Dan Russell]{index=10}](https://youtube.com/@danrussellpsu)
+- [Jose Marti Faus]{index=11}](https://youtube.com/@josemartifauslinearray)
+- [Audio University]{index=12}](https://youtube.com/@audiouniversity)
 
 ---
 
@@ -159,11 +159,34 @@ Coursework and presentations from my engineering degree:
   </a>
 </p>
 
+<p align="center">
+  <a href="https://youtu.be/4giQDUWfQc8">
+    <img src="https://img.youtube.com/vi/4giQDUWfQc8/0.jpg" width="300"/>
+  </a>
+  <a href="https://youtu.be/aj9ZOzIXaYc">
+    <img src="https://img.youtube.com/vi/aj9ZOzIXaYc/0.jpg" width="300"/>
+  </a>
+  <a href="https://youtu.be/JcTd22eLI78">
+    <img src="https://img.youtube.com/vi/JcTd22eLI78/0.jpg" width="300"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/4UFKl9fULkA">
+    <img src="https://img.youtube.com/vi/4UFKl9fULkA/0.jpg" width="300"/>
+  </a>
+  <a href="https://youtu.be/tCsl6ZcY9ag">
+    <img src="https://img.youtube.com/vi/tCsl6ZcY9ag/0.jpg" width="300"/>
+  </a>
+  <a href="https://youtu.be/23q3zoKiuGs">
+    <img src="https://img.youtube.com/vi/23q3zoKiuGs/0.jpg" width="300"/>
+  </a>
+</p>
 ---
 
 ### 📚 Playlists
-- [Signal Processing / Audio Concepts](https://www.youtube.com/watch?v=wWnfJ0-xXRE&list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)
-- [Advanced Audio & Systems](https://www.youtube.com/watch?v=rtlJoXxlSFE&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
+- [Walter Lewin Mechanics. MIT Physics 101](https://www.youtube.com/watch?v=wWnfJ0-xXRE&list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)
+- [Walter Lewin Electromagnetism. MIT Physics 802](https://www.youtube.com/watch?v=rtlJoXxlSFE&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
 
 
 
