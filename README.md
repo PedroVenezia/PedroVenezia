@@ -64,13 +64,14 @@ You can download my full resume here:
 
 <p align="center">
    <img src="./velez.jpg" width="250" style="object-fit: cover;"/>
-  <img src="./velz.jpg" width="250" style="object-fit: cover;"/>
+  <img src="./velz.JPG" width="250" style="object-fit: cover;"/>
   <img src="./var.JPG" width="250" style="object-fit: cover;"/>
 </p>
 
 <p align="center">
-   <img src="./malbran.JPG" width="250" style="object-fit: cover;"/>
+   
   <img src="./ministerio.jpg" width="250" style="object-fit: cover;"/>
+   <img src="./malbran.JPG" width="300" style="object-fit: cover;"/>
    <img src="./arg.jpg" width="250" style="object-fit: cover;"/>
  
 </p>
