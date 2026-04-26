@@ -50,48 +50,45 @@ You can download my full resume here:
 
 ## 📸 My Work
 
-## 📸 My Work
-
 <p align="center">
-  <img src="./Earthworks.jpg" height="180" style="object-fit: cover;"/>
-  <img src="./Colon.jpeg" height="180" style="object-fit: cover;"/>
-  <img src="./Nachito.jpg" height="180" style="object-fit: cover;"/>
+  <img src="./Earthworks.jpg" height="350" style="object-fit: cover;"/>
+  <img src="./Colon.jpeg" height="350" style="object-fit: cover;"/>
+  <img src="./Nachito.jpg" height="350" style="object-fit: cover;"/>
 </p>
 
 <p align="center">
-  <img src="./dosorio.jpg" height="180" style="object-fit: cover;"/>
-  <img src="./taba.jpg" height="180" style="object-fit: cover;"/>
-  <img src="./contra.jpg" height="180" style="object-fit: cover;"/>
+  <img src="./dosorio.jpg" height="350" style="object-fit: cover;"/>
+  <img src="./taba.jpg" height="350" style="object-fit: cover;"/>
+  <img src="./contra.jpg" height="350" style="object-fit: cover;"/>
 </p>
 
 <p align="center">
-  <img src="./velez.jpg" height="180" style="object-fit: cover;"/>
-  <img src="./var.JPG" height="180" style="object-fit: cover;"/>
-  <img src="./velz.JPG" height="180" style="object-fit: cover;"/>
+  <img src="./velez.jpg" height="350" style="object-fit: cover;"/>
+  <img src="./var.JPG" height="350" style="object-fit: cover;"/>
+  <img src="./velz.JPG" height="350" style="object-fit: cover;"/>
 </p>
 
 <p align="center">
-  <img src="./ministerio.jpg" height="180" style="object-fit: cover;"/>
-  <img src="./malbran.JPG" height="180" style="object-fit: cover;"/>
-  <img src="./arg.jpg" height="180" style="object-fit: cover;"/>
+  <img src="./ministerio.jpg" height="350" style="object-fit: cover;"/>
+  <img src="./malbran.JPG" height="350" style="object-fit: cover;"/>
+  <img src="./arg.jpg" height="350" style="object-fit: cover;"/>
 </p>
 
 <p align="center">
-  <img src="./arena.jpg" height="180" style="object-fit: cover;"/>
-  <img src="./subs.jpg" height="180" style="object-fit: cover;"/>
-  <img src="./dillom.jpg" height="180" style="object-fit: cover;"/>
+  <img src="./arena.jpg" height="350" style="object-fit: cover;"/>
+  <img src="./subs.jpg" height="350" style="object-fit: cover;"/>
+  <img src="./dillom.jpg" height="350" style="object-fit: cover;"/>
 </p>
 
 <p align="center">
-  <img src="./cardioide.jpg" height="180" style="object-fit: cover;"/>
-  <img src="./cardio.jpg" height="180" style="object-fit: cover;"/>
+  <img src="./cardioide.jpg" height="350" style="object-fit: cover;"/>
+  <img src="./cardio.jpg" height="350" style="object-fit: cover;"/>
 </p>
 
 <p align="center">
-  <img src="./tvs.jpg" height="180" style="object-fit: cover;"/>
-  <img src="./colon.jpg" height="180" style="object-fit: cover;"/>
+  <img src="./tvs.jpg" height="350" style="object-fit: cover;"/>
+  <img src="./colon.jpg" height="350" style="object-fit: cover;"/>
 </p>
-
 ## 📚 Academic Presentations
 
 Coursework and presentations from my engineering degree:
