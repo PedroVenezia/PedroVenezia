@@ -57,14 +57,14 @@ You can download my full resume here:
 </p>
 
 <p align="center">
-   <img src="./dosorio.jpg" width="250" style="object-fit: cover;"/>
-    <img src="./taba.jpg" width="250" style="object-fit: cover;"/>
-  <img src="./contra.jpg" width="250" style="object-fit: cover;"/>
+   <img src="./dosorio.jpg" width="300" style="object-fit: cover;"/>
+    <img src="./taba.jpg" width="300" style="object-fit: cover;"/>
+  <img src="./contra.jpg" width="300" style="object-fit: cover;"/>
 </p>
 
 <p align="center">
    <img src="./velez.jpg" width="200" style="object-fit: cover;"/>
-  <img src="./var.JPG" width="470" style="object-fit: cover;"/>
+  <img src="./var.JPG" width="480" style="object-fit: cover;"/>
    <img src="./velz.JPG" width="270" style="object-fit: cover;"/>
   
 </p>
