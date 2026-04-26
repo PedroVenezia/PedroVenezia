@@ -100,96 +100,107 @@ Coursework and presentations from my engineering degree:
 
 ## 🎬 Inspiring & Useful 
 
-
-## 🎬 Inspiring & Useful
-
 ### 🎓 Academic & Technical Resources
-- [Acústica UNTREF](https://acustica1untref.blogspot.com/)
-- [AyP UNTREF](https://sites.google.com/untref.edu.ar/ayp1untref/home?authuser=0)
-- [ESP sound projects]{index=0}](https://sound-au.com/)
-- [Sigfried Linkwitz]{index=1}](https://www.linkwitzlab.com/index.htm)
-- [Marshall Leach]{index=2}](https://leachlegacy.ece.gatech.edu/)
-- [Dan Russel]{index=3}](https://www.acs.psu.edu/drussell/demos.html)
-- [Douglas Self]{index=4}](http://www.douglas-self.com/)
+- [Acoustics UNTREF](https://acustica1untref.blogspot.com/)
+- [Signals & Systems UNTREF (AyP)](https://sites.google.com/untref.edu.ar/ayp1untref/home?authuser=0)
+- [ESP Sound Projects (Rod Elliott)](https://sound-au.com/)
+- [Linkwitz Lab (Siegfried Linkwitz)](https://www.linkwitzlab.com/index.htm)
+- [Leach Legacy (Marshall Leach)](https://leachlegacy.ece.gatech.edu/)
+- [Dan Russell – Acoustics Demos](https://www.acs.psu.edu/drussell/demos.html)
+- [Douglas Self – Audio Design](http://www.douglas-self.com/)
 
 ---
 
 ### 🧠 Interactive Simulations & Learning
-- [Falstad Multiphysics Simulators]{index=5}](http://falstad.com/)
-- [Walter Fendt](https://www.walter-fendt.de/)
+- [Falstad Circuit & Physics Simulators](http://falstad.com/)
+- [Walter Fendt – Physics Simulations](https://www.walter-fendt.de/)
 - [Wave Simulation (OSP)](https://www.compadre.org/osp/EJSS/4466/252.htm?F=1)
 - [Resonance Simulation](https://www.walter-fendt.de/html5/phes/resonance_es.htm)
 - [Wave Interference](https://www.compadre.org/osp/EJSS/4416/211.htm)
-- [Usefull Simulators]{index=7}](https://ciechanow.ski/sound/)
+- [Ciechanow – Interactive Sound Visualization](https://ciechanow.ski/sound/)
 
 ---
 
 ### 📺 YouTube Channels
-- [3blue1brown]{index=8}](https://youtube.com/@3blue1brown)
-- [Jorge Petrosino]{index=9}](https://www.youtube.com/@JorgePetrosino)
-- [Dan Russell]{index=10}](https://youtube.com/@danrussellpsu)
-- [Jose Marti Faus]{index=11}](https://youtube.com/@josemartifauslinearray)
-- [Audio University]{index=12}](https://youtube.com/@audiouniversity)
-
+- [3Blue1Brown (Mathematics & Visualization)](https://youtube.com/@3blue1brown)
+- [Jorge Petrosino (Audio Engineering)](https://www.youtube.com/@JorgePetrosino)
+- [Dan Russell (Acoustics)](https://youtube.com/@danrussellpsu)
+- [José Martí Faus (Line Array Systems)](https://youtube.com/@josemartifauslinearray)
+- [Audio University (Audio Fundamentals)](https://youtube.com/@audiouniversity)
 ---
 
 ### 🎥 Featured Videos
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=qzcMLB-kEiY">
+  <a href="https://www.youtube.com/watch?v=qzcMLB-kEiY" title="But what is a Fourier Transform? – 3Blue1Brown">
     <img src="https://img.youtube.com/vi/qzcMLB-kEiY/0.jpg" width="300"/>
   </a>
-  <a href="https://youtu.be/v_rDk3LlYiM">
+  <a href="https://youtu.be/v_rDk3LlYiM" title="Wave propagation and interference">
     <img src="https://img.youtube.com/vi/v_rDk3LlYiM/0.jpg" width="300"/>
   </a>
-  <a href="https://youtu.be/kEx-gRfuhhk">
+  <a href="https://youtu.be/kEx-gRfuhhk" title="Standing waves and resonance">
     <img src="https://img.youtube.com/vi/kEx-gRfuhhk/0.jpg" width="300"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/7v9_RlV-AKA">
+  <sub>Fourier Transform intuition | Wave propagation | Resonance fundamentals</sub>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/7v9_RlV-AKA" title="Sound waves visualization">
     <img src="https://img.youtube.com/vi/7v9_RlV-AKA/0.jpg" width="300"/>
   </a>
-  <a href="https://youtu.be/EFEuWGFDL9U">
+  <a href="https://youtu.be/EFEuWGFDL9U" title="Acoustic interference and phase">
     <img src="https://img.youtube.com/vi/EFEuWGFDL9U/0.jpg" width="300"/>
   </a>
-  <a href="https://youtu.be/FHjgY7LaM-I">
+  <a href="https://youtu.be/FHjgY7LaM-I" title="Phase and group delay concepts">
     <img src="https://img.youtube.com/vi/FHjgY7LaM-I/0.jpg" width="300"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/4giQDUWfQc8">
+  <sub>Wave behavior | Interference | Phase & group delay</sub>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/4giQDUWfQc8" title="Subwoofer array behavior">
     <img src="https://img.youtube.com/vi/4giQDUWfQc8/0.jpg" width="300"/>
   </a>
-  <a href="https://youtu.be/aj9ZOzIXaYc">
+  <a href="https://youtu.be/aj9ZOzIXaYc" title="Line array principles">
     <img src="https://img.youtube.com/vi/aj9ZOzIXaYc/0.jpg" width="300"/>
   </a>
-  <a href="https://youtu.be/JcTd22eLI78">
+  <a href="https://youtu.be/JcTd22eLI78" title="Low frequency directivity">
     <img src="https://img.youtube.com/vi/JcTd22eLI78/0.jpg" width="300"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/4UFKl9fULkA">
+  <sub>Subwoofer arrays | Line arrays | Low-frequency control</sub>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/4UFKl9fULkA" title="Impulse response and time domain">
     <img src="https://img.youtube.com/vi/4UFKl9fULkA/0.jpg" width="300"/>
   </a>
-  <a href="https://youtu.be/tCsl6ZcY9ag">
+  <a href="https://youtu.be/tCsl6ZcY9ag" title="System measurement techniques">
     <img src="https://img.youtube.com/vi/tCsl6ZcY9ag/0.jpg" width="300"/>
   </a>
-  <a href="https://youtu.be/23q3zoKiuGs">
+  <a href="https://youtu.be/23q3zoKiuGs" title="Advanced audio system design">
     <img src="https://img.youtube.com/vi/23q3zoKiuGs/0.jpg" width="300"/>
   </a>
 </p>
----
+
+<p align="center">
+  <sub>Impulse response | Measurement | System design</sub>
+</p>
 
 ### 📚 Playlists
-- [Walter Lewin Mechanics. MIT Physics 101](https://www.youtube.com/watch?v=wWnfJ0-xXRE&list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)
-- [Walter Lewin Electromagnetism. MIT Physics 802](https://www.youtube.com/watch?v=rtlJoXxlSFE&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
+- [Walter Lewin – Classical Mechanics (MIT Physics 1.01)](https://www.youtube.com/watch?v=wWnfJ0-xXRE&list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)  
+  *Fundamental course on Newtonian mechanics and physical intuition.*
 
-
-
+- [Walter Lewin – Electromagnetism (MIT Physics 8.02)](https://www.youtube.com/watch?v=rtlJoXxlSFE&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)  
+  *Core concepts of electric and magnetic fields applied to real systems.*
 
 
 
