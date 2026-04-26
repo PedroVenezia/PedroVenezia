@@ -98,10 +98,18 @@ Coursework and presentations from my engineering degree:
 ### Acoustics Laboratory
 - 📄 [Influence of the musical excerpt envelope on the relative modal threshold](./LA2024-2_Venezia_Influence-of-the-musical-excerpt-envelope-on-the-relative-modal-threshold.pdf)
 - You can take the Listening Test in the following [Link](https://abxtests.com/?st=gicvvigl&dl=0&test=https%3A%2F%2Fwww.dropbox.com%2Fscl%2Ffi%2Fm4oavrkrvkek9afq7v81x%2FABX_modal_V1.yaml%3Frlkey%3Dztglb1jfb966pz9q73rq4tzwk) 
+ 
 
-### Acoustics & Psicoacustics I 
--
+### 🎓 Acoustics & Psychoacoustics I
 
+- 📄 [Summation of Point Sources](./Suma_de_Fuentes_Puntuales.pdf)  
+  *Analysis of constructive and destructive interference between multiple sources.*
+
+- 📄 [Interference Exercise (18-9)](./Ej_interferencia_18-9.pdf)  
+  *Practical problem exploring wave interference and phase relationships.*
+
+- 📄 [Source Summation & Directivity](./Suma_de_Fuentes_y_Directividad.pdf)  
+  *Study of spatial response and directivity patterns resulting from source interaction.*
 ## 🎬 Inspiring & Useful 
 
 ### 🎓 Academic & Technical Resources
