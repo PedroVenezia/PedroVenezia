@@ -53,7 +53,7 @@ You can download my full resume here:
 <p align="center">
   <img src="./Earthworks.jpg" height="500" style="object-fit: cover;"/>
   <img src="./Colon.jpeg" height="500" style="object-fit: cover;"/>
-  <img src="./Nachito.jpg" height="350" style="object-fit: cover;"/>
+  <img src="./Nachito.jpg" height="500" style="object-fit: cover;"/>
 </p>
 
 <p align="center">
