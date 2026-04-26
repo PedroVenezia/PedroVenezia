@@ -40,9 +40,9 @@ You can download my full resume here:
 ## 🎥 Know Me!
 
 <p align="center">
-  <a href="https://youtu.be/JXh4eiGeGcg">
+  <a href="https://youtu.be/OYBhEK91VoY">
     <img src="https://img.youtube.com/vi/JXh4eiGeGcg/0.jpg" 
-         width="600" 
+         width="700" 
          style="border-radius: 12px; object-fit: cover;"/>
   </a>
 </p>
