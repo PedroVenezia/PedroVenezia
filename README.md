@@ -41,10 +41,18 @@ You can download my full resume here:
 
 ## 📸 My Work
 
-| | | |
-|---|---|---|
-| ![Teatro Colon](./Colon.jpeg) | ![Teatro Colon](./Earthworks.jpg) | ![Teatro Colon](./Nachito.jpg) |
-| ![Work 4](./images/work4.jpg) | ![Work 5](./images/work5.jpg) | ![Work 6](./images/work6.jpg) |
+<table>
+  <tr>
+    <td><img src="./Colon.jpeg" width="250"/></td>
+    <td><img src="./Earthworks.jpg" width="250"/></td>
+    <td><img src="./Nachito.jpg" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="./images/work4.jpg" width="250"/></td>
+    <td><img src="./images/work5.jpg" width="250"/></td>
+    <td><img src="./images/work6.jpg" width="250"/></td>
+  </tr>
+</table>
 
 ## 📚 Academic Presentations
 
