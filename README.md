@@ -98,5 +98,76 @@ Coursework and presentations from my engineering degree:
 - 📄 [Influence of the musical excerpt envelope on the relative modal threshold](./LA2024-2_Venezia_Influence-of-the-musical-excerpt-envelope-on-the-relative-modal-threshold.pdf)
 - You can take the Listening Test in the following [Link](https://abxtests.com/?st=gicvvigl&dl=0&test=https%3A%2F%2Fwww.dropbox.com%2Fscl%2Ffi%2Fm4oavrkrvkek9afq7v81x%2FABX_modal_V1.yaml%3Frlkey%3Dztglb1jfb966pz9q73rq4tzwk) 
 
-## 🎬 Inspiring & Useful Resources
-[![Video Title](https://img.youtube.com/vi/qzcMLB-kEiY/0.jpg)](https://www.youtube.com/watch?v=qzcMLB-kEiY)
+## 🎬 Inspiring & Useful 
+
+
+## 🎬 Inspiring & Useful
+
+### 🎓 Academic & Technical Resources
+- [Acústica UNTREF](https://acustica1untref.blogspot.com/)
+- [AyP UNTREF](https://sites.google.com/untref.edu.ar/ayp1untref/home?authuser=0)
+- [:contentReference[oaicite:0]{index=0}](https://sound-au.com/)
+- [:contentReference[oaicite:1]{index=1}](https://www.linkwitzlab.com/index.htm)
+- [:contentReference[oaicite:2]{index=2}](https://leachlegacy.ece.gatech.edu/)
+- [:contentReference[oaicite:3]{index=3}](https://www.acs.psu.edu/drussell/demos.html)
+- [:contentReference[oaicite:4]{index=4}](http://www.douglas-self.com/)
+
+---
+
+### 🧠 Interactive Simulations & Learning
+- [:contentReference[oaicite:5]{index=5}](http://falstad.com/)
+- [:contentReference[oaicite:6]{index=6}](https://www.walter-fendt.de/)
+- [Wave Simulation (OSP)](https://www.compadre.org/osp/EJSS/4466/252.htm?F=1)
+- [Resonance Simulation](https://www.walter-fendt.de/html5/phes/resonance_es.htm)
+- [Wave Interference](https://www.compadre.org/osp/EJSS/4416/211.htm)
+- [:contentReference[oaicite:7]{index=7}](https://ciechanow.ski/sound/)
+
+---
+
+### 📺 YouTube Channels
+- [:contentReference[oaicite:8]{index=8}](https://youtube.com/@3blue1brown)
+- [:contentReference[oaicite:9]{index=9}](https://www.youtube.com/@JorgePetrosino)
+- [:contentReference[oaicite:10]{index=10}](https://youtube.com/@danrussellpsu)
+- [:contentReference[oaicite:11]{index=11}](https://youtube.com/@josemartifauslinearray)
+- [:contentReference[oaicite:12]{index=12}](https://youtube.com/@audiouniversity)
+
+---
+
+### 🎥 Featured Videos
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=qzcMLB-kEiY">
+    <img src="https://img.youtube.com/vi/qzcMLB-kEiY/0.jpg" width="300"/>
+  </a>
+  <a href="https://youtu.be/v_rDk3LlYiM">
+    <img src="https://img.youtube.com/vi/v_rDk3LlYiM/0.jpg" width="300"/>
+  </a>
+  <a href="https://youtu.be/kEx-gRfuhhk">
+    <img src="https://img.youtube.com/vi/kEx-gRfuhhk/0.jpg" width="300"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/7v9_RlV-AKA">
+    <img src="https://img.youtube.com/vi/7v9_RlV-AKA/0.jpg" width="300"/>
+  </a>
+  <a href="https://youtu.be/EFEuWGFDL9U">
+    <img src="https://img.youtube.com/vi/EFEuWGFDL9U/0.jpg" width="300"/>
+  </a>
+  <a href="https://youtu.be/FHjgY7LaM-I">
+    <img src="https://img.youtube.com/vi/FHjgY7LaM-I/0.jpg" width="300"/>
+  </a>
+</p>
+
+---
+
+### 📚 Playlists
+- [Signal Processing / Audio Concepts](https://www.youtube.com/watch?v=wWnfJ0-xXRE&list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)
+- [Advanced Audio & Systems](https://www.youtube.com/watch?v=rtlJoXxlSFE&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
+
+
+
+
+
+
+
