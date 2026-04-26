@@ -101,8 +101,8 @@ Coursework and presentations from my engineering degree:
 ## 🎬 Inspiring & Useful 
 
 ### 🎓 Academic & Technical Resources
-- [Acoustics UNTREF](https://acustica1untref.blogspot.com/)
-- [Signals & Systems UNTREF (AyP)](https://sites.google.com/untref.edu.ar/ayp1untref/home?authuser=0)
+- [Acoustics & Psicoacoustics UNTREF (Petrosino)](https://acustica1untref.blogspot.com/)
+- [Acoustics & Psicoacoustics UNTREF](https://sites.google.com/untref.edu.ar/ayp1untref/home?authuser=0)
 - [ESP Sound Projects (Rod Elliott)](https://sound-au.com/)
 - [Linkwitz Lab (Siegfried Linkwitz)](https://www.linkwitzlab.com/index.htm)
 - [Leach Legacy (Marshall Leach)](https://leachlegacy.ece.gatech.edu/)
@@ -123,7 +123,7 @@ Coursework and presentations from my engineering degree:
 
 ### 📺 YouTube Channels
 - [3Blue1Brown (Mathematics & Visualization)](https://youtube.com/@3blue1brown)
-- [Jorge Petrosino (Audio Engineering)](https://www.youtube.com/@JorgePetrosino)
+- [Jorge Petrosino (Acústica, Electrónica, Ciencias de la Educación)](https://www.youtube.com/@JorgePetrosino)
 - [Dan Russell (Acoustics)](https://youtube.com/@danrussellpsu)
 - [José Martí Faus (Line Array Systems)](https://youtube.com/@josemartifauslinearray)
 - [Audio University (Audio Fundamentals)](https://youtube.com/@audiouniversity)
@@ -143,9 +143,7 @@ Coursework and presentations from my engineering degree:
   </a>
 </p>
 
-<p align="center">
-  <sub>Fourier Transform intuition | Wave propagation | Resonance fundamentals</sub>
-</p>
+
 
 <p align="center">
   <a href="https://youtu.be/7v9_RlV-AKA" title="Sound waves visualization">
@@ -159,9 +157,7 @@ Coursework and presentations from my engineering degree:
   </a>
 </p>
 
-<p align="center">
-  <sub>Wave behavior | Interference | Phase & group delay</sub>
-</p>
+
 
 <p align="center">
   <a href="https://youtu.be/4giQDUWfQc8" title="Subwoofer array behavior">
@@ -175,9 +171,6 @@ Coursework and presentations from my engineering degree:
   </a>
 </p>
 
-<p align="center">
-  <sub>Subwoofer arrays | Line arrays | Low-frequency control</sub>
-</p>
 
 <p align="center">
   <a href="https://youtu.be/4UFKl9fULkA" title="Impulse response and time domain">
@@ -191,8 +184,6 @@ Coursework and presentations from my engineering degree:
   </a>
 </p>
 
-<p align="center">
-  <sub>Impulse response | Measurement | System design</sub>
 </p>
 
 ### 📚 Playlists
