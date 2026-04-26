@@ -51,20 +51,20 @@ You can download my full resume here:
 ## 📸 My Work
 
 <p align="center">
+  <img src="./Earthworks.jpg" width="300" style="object-fit: cover;"/>
   <img src="./Colon.jpeg" width="250" style="object-fit: cover;"/>
-  <img src="./Earthworks.jpg" width="250" style="object-fit: cover;"/>
   <img src="./Nachito.jpg" width="250" style="object-fit: cover;"/>
 </p>
 
 <p align="center">
-   <img src="./tabaris.jpg" width="250" style="object-fit: cover;"/>
+   <img src="./dosorio.jpg" width="250" style="object-fit: cover;"/>
     <img src="./taba.jpg" width="250" style="object-fit: cover;"/>
   <img src="./contra.jpg" width="250" style="object-fit: cover;"/>
 </p>
 
 <p align="center">
    <img src="./velez.jpg" width="250" style="object-fit: cover;"/>
-  <img src="./dosorio.jpg" width="250" style="object-fit: cover;"/>
+  <img src="./velz.jpg" width="250" style="object-fit: cover;"/>
   <img src="./var.JPG" width="250" style="object-fit: cover;"/>
 </p>
 
